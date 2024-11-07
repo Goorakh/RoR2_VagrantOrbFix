@@ -1,0 +1,10 @@
+﻿{
+	"name": "VagrantOrbFix",
+	"authorName": "Gorakh",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/RoR2_VagrantOrbFix",
+	"description": "Fixes Wandering Vagrant orbs sometimes becoming indestructible",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2117"
+	]
+}
